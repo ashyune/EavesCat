@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Party.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Hall-1.unity
+    guid: 04ef2a29dc6271d4a8cdac64ca00d36f
+  - enabled: 1
+    path: Assets/Scenes/Hall-3.unity
+    guid: 2b8b52a3aa9852648833ce73e6ab2276
+  - enabled: 1
+    path: Assets/Scenes/Bathroom.unity
+    guid: 3a6ff21e7fa495145a2f0b3b3193ede5
+  - enabled: 1
+    path: Assets/Scenes/Hall-2.unity
+    guid: d9b8b73a31d2be447bf9cc09553467f1
+  - enabled: 1
+    path: Assets/Scenes/Kitchen.unity
+    guid: 71cc1dccc66fcee48b46b971b89d3d3a
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0

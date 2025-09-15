@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: 579fcea7f48611b46b6a353862f11404
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -624761109854229169
+    second: cat_move_L_strip36 1_0
+  - first:
+      213: -8787602016475807090
+    second: cat_move_L_strip36 1_1
+  - first:
+      213: 7652642847893402819
+    second: cat_move_L_strip36 1_2
+  - first:
+      213: -1694616381354039481
+    second: cat_move_L_strip36 1_3
+  - first:
+      213: -8151039148707656322
+    second: cat_move_L_strip36 1_4
+  - first:
+      213: 2762720978206737597
+    second: cat_move_L_strip36 1_5
+  - first:
+      213: -8812746437900357703
+    second: cat_move_L_strip36 1_6
+  - first:
+      213: 3090676114598503081
+    second: cat_move_L_strip36 1_7
+  - first:
+      213: 4075018078887442472
+    second: cat_move_L_strip36 1_8
+  - first:
+      213: -2628633038136501223
+    second: cat_move_L_strip36 1_9
+  - first:
+      213: -5361113435299739424
+    second: cat_move_L_strip36 1_10
+  - first:
+      213: -1470379817299342111
+    second: cat_move_L_strip36 1_11
+  - first:
+      213: -2034934410902602409
+    second: cat_move_L_strip36 1_12
+  - first:
+      213: -2242439801622477904
+    second: cat_move_L_strip36 1_13
+  - first:
+      213: 8198859905765412990
+    second: cat_move_L_strip36 1_14
+  - first:
+      213: 7915615985839355224
+    second: cat_move_L_strip36 1_15
+  - first:
+      213: 308325893789107278
+    second: cat_move_L_strip36 1_16
+  - first:
+      213: -504892553148062899
+    second: cat_move_L_strip36 1_17
+  - first:
+      213: 3402829255449583439
+    second: cat_move_L_strip36 1_18
+  - first:
+      213: -7874378325356947996
+    second: cat_move_L_strip36 1_19
+  - first:
+      213: -2477063895026400479
+    second: cat_move_L_strip36 1_20
+  - first:
+      213: 5858145383711393724
+    second: cat_move_L_strip36 1_21
+  - first:
+      213: 5325150145914579656
+    second: cat_move_L_strip36 1_22
+  - first:
+      213: -287497181905489802
+    second: cat_move_L_strip36 1_23
+  - first:
+      213: 3555584868365290050
+    second: cat_move_L_strip36 1_24
+  - first:
+      213: -3502686846620694571
+    second: cat_move_L_strip36 1_25
+  - first:
+      213: -2692233784406703193
+    second: cat_move_L_strip36 1_26
+  - first:
+      213: -5360382992675729197
+    second: cat_move_L_strip36 1_27
+  - first:
+      213: -4370362665322612534
+    second: cat_move_L_strip36 1_28
+  - first:
+      213: -5959600158962489752
+    second: cat_move_L_strip36 1_29
+  - first:
+      213: 8007769306685291447
+    second: cat_move_L_strip36 1_30
+  - first:
+      213: 8570625930368509934
+    second: cat_move_L_strip36 1_31
+  - first:
+      213: 17526611400869964
+    second: cat_move_L_strip36 1_32
+  - first:
+      213: -5782317561917800093
+    second: cat_move_L_strip36 1_33
+  - first:
+      213: 1925576592234532838
+    second: cat_move_L_strip36 1_34
+  - first:
+      213: -8459523418598133233
+    second: cat_move_L_strip36 1_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cat_move_L_strip36 1_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 11
+        width: 52
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4de8a9a4176457f0800000000000000
+      internalID: -624761109854229169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_move_L_strip36 1_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 11
+        width: 52
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e820474568a2c0680800000000000000
+      internalID: -8787602016475807090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_move_L_strip36 1_2
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 11
+        width: 52
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c4be9def16a33a60800000000000000
+      internalID: 7652642847893402819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_move_L_strip36 1_3
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 11
+        width: 52
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747a5de21638b78e0800000000000000
+      internalID: -1694616381354039481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_move_L_strip36 1_4
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 11
+        width: 52
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d4afe8411b1ee80800000000000000
+      internalID: -8151039148707656322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_move_L_strip36 1_5
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 11
+        width: 52
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db448879718275620800000000000000
+      internalID: 2762720978206737597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_move_L_strip36 1_6
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 12
+        width: 52
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf2c518ec5d2b580800000000000000
+      internalID: -8812746437900357703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_move_L_strip36 1_7
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 12
+        width: 52
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2ad661d8944ea20800000000000000
+      internalID: 3090676114598503081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_move_L_strip36 1_8
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 12
+        width: 52
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82871653a5f5d8830800000000000000
+      internalID: 4075018078887442472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_move_L_strip36 1_9
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 12
+        width: 52
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c940dcd28358bd0800000000000000
+      internalID: -2628633038136501223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_move_L_strip36 1_10
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 12
+        width: 52
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e882682cbf7995b0800000000000000
+      internalID: -5361113435299739424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_move_L_strip36 1_11
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 12
+        width: 52
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec08f8b859289be0800000000000000
+      internalID: -1470379817299342111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_move_L_strip36 1_12
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 11
+        width: 52
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d7ee05fe572c3e0800000000000000
+      internalID: -2034934410902602409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_move_L_strip36 1_13
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 11
+        width: 52
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b34812a1e041e0e0800000000000000
+      internalID: -2242439801622477904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_move_L_strip36 1_14
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 11
+        width: 52
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70175615a338c170800000000000000
+      internalID: 8198859905765412990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_move_L_strip36 1_15
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 11
+        width: 52
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 855bb56eccae9dd60800000000000000
+      internalID: 7915615985839355224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_move_L_strip36 1_16
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 11
+        width: 52
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e44ca5e44c4674400800000000000000
+      internalID: 308325893789107278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_move_L_strip36 1_17
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 11
+        width: 52
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43aedfd5e24ef8f0800000000000000
+      internalID: -504892553148062899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_move_L_strip36 1_18
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 12
+        width: 52
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f116acd27493f20800000000000000
+      internalID: 3402829255449583439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_move_L_strip36 1_19
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 12
+        width: 52
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e5501222a698b290800000000000000
+      internalID: -7874378325356947996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_move_L_strip36 1_20
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 12
+        width: 52
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1238103f283bf9dd0800000000000000
+      internalID: -2477063895026400479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_move_L_strip36 1_21
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 12
+        width: 52
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb746be40305c4150800000000000000
+      internalID: 5858145383711393724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_move_L_strip36 1_22
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 12
+        width: 52
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8caabd608dbb6e940800000000000000
+      internalID: 5325150145914579656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_move_L_strip36 1_23
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 11
+        width: 52
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 670f89616da920cf0800000000000000
+      internalID: -287497181905489802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_move_L_strip36 1_24
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 11
+        width: 52
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24acaa77999f75130800000000000000
+      internalID: 3555584868365290050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_move_L_strip36 1_25
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 11
+        width: 52
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d78dbbfed4f36fc0800000000000000
+      internalID: -3502686846620694571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_move_L_strip36 1_26
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 11
+        width: 52
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3022c13a343aad0800000000000000
+      internalID: -2692233784406703193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_move_L_strip36 1_27
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 11
+        width: 52
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0948591181c95b0800000000000000
+      internalID: -5360382992675729197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_move_L_strip36 1_28
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 11
+        width: 52
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac8f0d1af4a5953c0800000000000000
+      internalID: -4370362665322612534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_move_L_strip36 1_29
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 11
+        width: 52
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 866eda11b3f3b4da0800000000000000
+      internalID: -5959600158962489752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_move_L_strip36 1_30
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 12
+        width: 52
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bbb048e1cf412f60800000000000000
+      internalID: 8007769306685291447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_move_L_strip36 1_31
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 12
+        width: 52
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee7ed52efdaf0f670800000000000000
+      internalID: 8570625930368509934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_move_L_strip36 1_32
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 12
+        width: 52
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c484aa63c544e3000800000000000000
+      internalID: 17526611400869964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_move_L_strip36 1_33
+      rect:
+        serializedVersion: 2
+        x: 2119
+        y: 12
+        width: 52
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361036f30d411cfa0800000000000000
+      internalID: -5782317561917800093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_move_L_strip36 1_34
+      rect:
+        serializedVersion: 2
+        x: 2183
+        y: 12
+        width: 52
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef42ff55b509ba10800000000000000
+      internalID: 1925576592234532838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_move_L_strip36 1_35
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 12
+        width: 52
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f023c51754cb99a80800000000000000
+      internalID: -8459523418598133233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cat_move_L_strip36 1_0: -624761109854229169
+      cat_move_L_strip36 1_1: -8787602016475807090
+      cat_move_L_strip36 1_10: -5361113435299739424
+      cat_move_L_strip36 1_11: -1470379817299342111
+      cat_move_L_strip36 1_12: -2034934410902602409
+      cat_move_L_strip36 1_13: -2242439801622477904
+      cat_move_L_strip36 1_14: 8198859905765412990
+      cat_move_L_strip36 1_15: 7915615985839355224
+      cat_move_L_strip36 1_16: 308325893789107278
+      cat_move_L_strip36 1_17: -504892553148062899
+      cat_move_L_strip36 1_18: 3402829255449583439
+      cat_move_L_strip36 1_19: -7874378325356947996
+      cat_move_L_strip36 1_2: 7652642847893402819
+      cat_move_L_strip36 1_20: -2477063895026400479
+      cat_move_L_strip36 1_21: 5858145383711393724
+      cat_move_L_strip36 1_22: 5325150145914579656
+      cat_move_L_strip36 1_23: -287497181905489802
+      cat_move_L_strip36 1_24: 3555584868365290050
+      cat_move_L_strip36 1_25: -3502686846620694571
+      cat_move_L_strip36 1_26: -2692233784406703193
+      cat_move_L_strip36 1_27: -5360382992675729197
+      cat_move_L_strip36 1_28: -4370362665322612534
+      cat_move_L_strip36 1_29: -5959600158962489752
+      cat_move_L_strip36 1_3: -1694616381354039481
+      cat_move_L_strip36 1_30: 8007769306685291447
+      cat_move_L_strip36 1_31: 8570625930368509934
+      cat_move_L_strip36 1_32: 17526611400869964
+      cat_move_L_strip36 1_33: -5782317561917800093
+      cat_move_L_strip36 1_34: 1925576592234532838
+      cat_move_L_strip36 1_35: -8459523418598133233
+      cat_move_L_strip36 1_4: -8151039148707656322
+      cat_move_L_strip36 1_5: 2762720978206737597
+      cat_move_L_strip36 1_6: -8812746437900357703
+      cat_move_L_strip36 1_7: 3090676114598503081
+      cat_move_L_strip36 1_8: 4075018078887442472
+      cat_move_L_strip36 1_9: -2628633038136501223
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
