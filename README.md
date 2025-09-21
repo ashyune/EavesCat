@@ -1,5 +1,5 @@
-# EavesCat
-A simple 2D game made for the game jam: "Altverse" 
+# EavesCat [In Progress]
+A simple 2D game made for the game jam: <b> "Altverse" </b> 
 <br>
 Based on the theme: "You are not the main character"
 <br>
